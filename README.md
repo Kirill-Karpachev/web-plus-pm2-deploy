@@ -4,4 +4,4 @@
 
 IP адрес 84.252.139.60
 Frontend https://mesto.domainname.nomoreparties.co/
-Backend https://api.mesto.domainname.nomoreparties.co
+Backend https://api.mesto.domainname.nomoreparties.co/
